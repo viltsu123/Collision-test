@@ -1,2 +1,2 @@
 # Collision-test
-Trying to define a working collision detection system in javascript 
+Trying to define a working collision detection system in javascript. I have the files here which have all the needed parts. The progress is that i can not go around the black div box with the blue box. This needs to be fixed so that the blue box can move around the black box without being detected. Try the code yourself and see where it falls apart. The keyes for moving are WASD and the arrow keys. There are two divs that move. All help is appreciated! :)
